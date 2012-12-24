@@ -9,8 +9,7 @@ namespace lolbr_desktop
 	{
 		public static void Main (string[] args)
 		{
-			//string url = "http://otp.me.uk:8000/testing";
-			string url = "http://google.de/";
+			string url = "http://localhost:8000/testing";
 			
 			Console.WriteLine("Loading...");
 			
